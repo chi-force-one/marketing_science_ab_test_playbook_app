@@ -1,0 +1,27 @@
+# Marketing Science: A/B Testing Application
+# Python package dependencies
+# 
+# Python Version: 3.10+ required
+# - For Streamlit Cloud: Use runtime.txt to specify Python version
+# - For local development: Ensure Python 3.10+ is installed
+# - The application will check Python version at startup
+
+streamlit>=1.31.0
+numpy>=1.24.3
+pandas>=2.0.3
+scipy>=1.11.3
+plotly>=5.18.0
+
+# Installation instructions for Streamlit deployment
+# (Streamlit Cloud has issues with conda yml deployments)
+# 
+# Local setup:
+# python3 -m venv venv_marsci_ab
+# source venv_marsci_ab/bin/activate  # On Windows: venv_marsci_ab\Scripts\activate
+# pip install --upgrade pip 
+# pip install -r requirements.txt
+#
+# Note: Streamlit Cloud will automatically use runtime.txt for Python version
+
+
+
