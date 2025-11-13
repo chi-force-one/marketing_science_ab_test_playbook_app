@@ -1,6 +1,6 @@
 # 🔬 Marketing Science: A/B Testing Playbook
 
-A comprehensive Streamlit application for designing, executing, and analyzing marketing experiments with statistical rigor. This tool guides you through the entire A/B testing lifecycle from business objective to final decision.
+Creating a Marketing Science Series where it consists of a series of tools that enable users to learn and use as a playbook/reference for their own marketing strategies. 
 
 ## 📋 Table of Contents
 
@@ -18,9 +18,9 @@ A comprehensive Streamlit application for designing, executing, and analyzing ma
 
 This application provides a step-by-step framework for conducting statistically sound A/B tests in marketing. It helps you:
 
-- **Define clear business objectives** based on customer lifecycle stages
+- **Define clear business objectives** based across customer lifecycle stages
 - **Select appropriate metrics** for your experiments
-- **Design experiments** with proper statistical power
+- **Design experiments** with power analysis and sample size calculator
 - **Implement tests** with best practices
 - **Analyze results** using appropriate statistical tests
 - **Make data-driven decisions** based on statistical significance
@@ -35,13 +35,13 @@ This application provides a step-by-step framework for conducting statistically 
    - Choose marketing channel and campaign type
 
 2. **Phase 2: Define Metrics** 📊
-   - Select primary and secondary metrics
-   - Understand metric distributions (Binomial, Normal, Log-normal, etc.)
+   - Select primary and secondary metrics and guardrail metrics
+   - Understand metric distributions (Binomial, Normal, Log-normal, etc.) to know which statistical tests to use. 
    - Get baseline estimates and industry benchmarks
 
 3. **Phase 3: Design Experiment** 🔬
-   - Calculate sample size requirements
-   - Set significance level and statistical power
+   - Learn how to do Power Analysis with built in Sample Size Calculator!
+   - Learn how to set baselines, mde and understanding significance level and statistical power
    - Choose appropriate statistical tests
 
 4. **Phase 4: Implementation** ⚙️
