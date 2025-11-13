@@ -1,6 +1,6 @@
 # 🔬 Marketing Science: A/B Testing Playbook
 
-Creating a Marketing Science Series where it consists of a series of tools that enable users to learn and use as a playbook/reference for their own marketing strategies. 
+Part of the Marketing Science Series where users can learn and apply in real world situations. This app is a playbook on how to run marketing experiments across the customer lifecycle!
 <img width="1465" height="318" alt="image" src="https://github.com/user-attachments/assets/52563db6-0af2-4a8e-a4a8-eb6d694ad384" />
 
 ## 📋 Table of Contents
